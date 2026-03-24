@@ -1,0 +1,1 @@
+如果你想自訂網站 logo，可以把 logo.svg 放到 docs/public/logo.svg
